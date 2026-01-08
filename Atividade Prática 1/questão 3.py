@@ -3,4 +3,13 @@
 # Use as seguintes dimensões:
 
 # Comprimento: 12 cm
-# Largura:
+# Largura: 14 cm
+# Altura: 20 cm
+# O programa deve calcular o volume e exibir o resultado em cm³.
+
+comprimento = 12
+largura = 14
+altura = 20
+volume = comprimento * largura * altura
+
+print("O volume da caixa retangular é", volume, "cm³")
