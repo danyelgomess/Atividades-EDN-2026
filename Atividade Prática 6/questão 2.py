@@ -21,6 +21,5 @@ try:
 
 except requests.exceptions.RequestException:
     print("Erro ao conectar na API.")
-    print("\nUsuário fictício gerado com sucesso!\n")
     
 
