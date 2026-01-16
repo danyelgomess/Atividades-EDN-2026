@@ -12,3 +12,5 @@ for i in range(tamanho):
     senha += random.choice(caracteres)
 
 print("Senha gerada:", senha)
+
+#Questão 1 concluída
